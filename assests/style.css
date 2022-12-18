@@ -1,0 +1,86 @@
+html{
+  width: 90%;
+  border: 15px solid rgb(222, 113, 23);
+}
+body{
+  background-color: white;
+  height: auto;
+  width: 100%;
+  margin-top: auto;
+}
+#name{
+  /* width: 20%;
+  text-align: right;
+  margin: 0 90%;
+  margin-left: 80%;
+  /* padding-bottom:1px */
+/* margin-top: -20px;  */
+float: right;
+margin: 7% 0;
+
+}
+#photo{
+  width: 140px;
+  display: inline;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.important{
+  width: 85%;
+  margin: 0 100px;
+  border-width: 2%;
+  padding: 20px;
+}
+body{
+  width: 80%;
+  height: 20%;
+  margin: 0 120px;
+  border-color: rgb(255, 173, 21);
+  border-width: 3px;
+  border: 20px;
+}
+.b{
+  font-style: italic;
+}
+hr{
+border: 5px solid rgb(0, 0, 0);
+/* margin-bottom: 2px; */
+/* margin-top: 1%; */
+}
+#education{
+  padding-top: 6px;
+}
+#date{
+  float: right;
+  background-color: black;
+  color: white;
+}
+#datetime{
+  float: right;
+  background-color: black;
+  color: white;
+}
+#time{
+  float: right;
+  background-color: black;
+  color: white;
+}
+#lastsentence{
+  margin-top: 0%;
+}
+#references{
+  margin-top: 1%
+}
+#personal{
+  margin-top: 3%;
+}
+#education{
+  margin-top: 1%;
+}
+#work{
+  margin-top: -1%;
+}
+#skills{
+  margin-top: -1.5%;
+}
